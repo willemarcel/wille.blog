@@ -1,16 +1,27 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Wille
+avatar: /static/images/avatar.jpg
+occupation: Software Engineer
+company: Development Seed
+email: wille@wille.blog.br
+twitter: https://twitter.com/_wille
+linkedin: https://www.linkedin.com/in/willemarcel/
+github: https://github.com/willemarcel
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi, I'm Wille!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I am a software engineer focused on rich web map applications. I am a long-time
+supporter of OpenStreetMap and open Geographic Information Systems, with a special
+expertise on designing APIs, satellite imagery and web map applications. Currently,
+I'm part of the [Development Seed](https://developmentseed.org/) team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2015, I created the OSMCha application, a very important tool for quality control
+and monitoring of changes of OpenStreetMap. Between 2017 and mid 2021, I maintained
+OSMCha, with the support of [Mapbox](https://mapbox.com).
+
+From 2018 to June, 2021, I worked for the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/)
+and led the development of the Tasking Manager 4 frontend interface and of the
+OpenMapKit-Server redesign.
+
+You can know a bit more about these software in the [Projects](/projects/) page.
