@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Wille Marcel',
+  title: 'Wille',
   author: 'Wille Marcel',
-  headerTitle: 'Wille Marcel',
+  headerTitle: 'Wille',
   description: 'Software engineering, maps, life & thoughts',
   language: 'en-us',
   siteUrl: 'https://wille.blog.br',
