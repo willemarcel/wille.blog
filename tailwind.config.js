@@ -18,6 +18,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        hand: ['Caveat', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.teal,
