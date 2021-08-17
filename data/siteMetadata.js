@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Wille',
   description: 'Software engineering, maps, life & thoughts',
   language: 'en-us',
-  siteUrl: 'https://wille.blog.br',
+  siteUrl: 'https://wille.me',
   siteRepo: 'https://github.com/willemarcel/wille.blog',
   image: '/static/images/avatar.jpg',
   head: '/static/images/head.jpg',
