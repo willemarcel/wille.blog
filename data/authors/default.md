@@ -3,9 +3,10 @@ name: Wille
 avatar: /static/images/avatar.jpg
 occupation: Software Engineer
 company: Development Seed
-email: wille@wille.blog.br
 twitter: https://twitter.com/_wille
-linkedin: https://www.linkedin.com/in/willemarcel/
+linkedin: https://www.linkedin.com/in/willemarcel
+instagram: https://instagram.com/willemarcel
+openstreetmap: https://osm.org/user/wille
 github: https://github.com/willemarcel
 ---
 
