@@ -3,6 +3,7 @@ title: Starting
 date: '2021-08-16'
 tags: ['career', 'personal life']
 draft: false
+images: ['/static/images/posts/starting.jpg']
 summary: In the last years I have been writing only on my OpenStreetMap Diary. So I decided to start this space to write about other topics like programming, soft skills and some other things I enjoy.
 ---
 
@@ -19,3 +20,5 @@ Another special aspect of DevSeed is the possibility of working with several fri
 Currently, Development Seed's main focus is to accelerate the use of Earth data to solve global challenges. I will be working on building tools to collect, manage, distribute and analyse map data.
 
 In the personal level, I am happy living in Salvador, Brazil. And I am dedicating my free time to swimming, cycling by the seaside, watching movies and reading some books. And, of course, I have been doing trip plans to when we have a COVID safe world.
+
+![Nice beach in Salvador](/static/images/posts/starting.jpg)
