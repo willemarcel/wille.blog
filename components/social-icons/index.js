@@ -5,6 +5,7 @@ import Youtube from './youtube.svg'
 import Linkedin from './linkedin.svg'
 import Instagram from './instagram.svg'
 import OpenStreetMap from './openstreetmap.svg'
+import Rss from './rss.svg'
 import Twitter from './twitter.svg'
 
 // Icons taken from: https://simpleicons.org/
@@ -18,6 +19,7 @@ const components = {
   instagram: Instagram,
   openstreetmap: OpenStreetMap,
   twitter: Twitter,
+  rss: Rss,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
